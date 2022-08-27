@@ -1,0 +1,51 @@
+body {
+    background-color:midnightblue;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color:red ;
+    border:15px solid black;
+    border-radius: 15px;
+}
+main p {
+    background-color: orange;
+    border:8px solid black;
+    border-radius: 10px;
+    font-size: 19px;
+}
+main img {
+    width:130px;
+    height: 130px;
+    border:20px solid black;
+    border-radius: 15px;
+}
+.sun {
+    width:130px;
+    height: 130px;
+    float:right;
+}
+.rsun {
+    margin: 0px 0px 0px 145px;
+}
+footer a {
+    background-color: rgb(13, 255, 13);
+    color:rgb(255, 255, 3);
+    border:11px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 10px;
+    float: left;
+}
+.next {
+    float:right;
+}
+
+
+
+
+
+
